@@ -1,0 +1,19 @@
+[INFO] Booted successfully. Starting initializing and testing the system
+[INFO] Testing sprintf: 29, -29, 0x0000001D, X, abacaba
+[INFO] stack base: 0x00EE0000
+[INFO] Initializing memory: 4079616 pages (64 bytes per page)
+[INFO] pages located at: 0x0010D020
+[INFO] Testing memory
+[INFO] 0 / 4079616
+[INFO] Allocated 1024 bytes. 0x00100000, 16 / 4079616
+[INFO] Allocated 1000000 bytes. 0x00100400, 15641 / 4079616
+[INFO] Freed 1024 bytes. 0x00100000, 15625 / 4079616
+[INFO] Allocated 512 bytes. 0x00100000, 15633 / 4079616
+[INFO] Allocated 512 bytes. 0x00100200, 15641 / 4079616
+[INFO] Freed 512 bytes. 0x00100000, 15633 / 4079616
+[INFO] Freed 512 bytes. 0x00100200, 15625 / 4079616
+[INFO] Allocated 15000 bytes. 0x001F4640, 15860 / 4079616
+[INFO] Freed 15000 bytes. 0x001F4640, 15625 / 4079616
+[INFO] Freed 1000000 bytes. 0x00100400, 0 / 4079616
+[INFO] Initializing GDT and IDT
+[INFO] received interrupt: 3[INFO] received interrupt: 4[INFO] System seems to work fine.

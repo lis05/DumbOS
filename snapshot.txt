@@ -1,0 +1,25 @@
+[]      Booted successfully
+[]      Testing sformat: 29, -29, 0x0000001D, X, abacaba
+[]      stack base: 0x00200000
+[]      Initializing memory: 30720 pages
+[]      lol it works?
+[]      0x00200000
+[]      lol it works?
+[]      0x00201400
+ß
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
